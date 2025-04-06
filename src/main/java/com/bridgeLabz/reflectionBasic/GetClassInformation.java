@@ -1,4 +1,4 @@
-package com.bridgelabz.reflectionBasic;
+package com.bridgeLabz.reflectionBasic;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
